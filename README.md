@@ -1,3 +1,4 @@
+## Note : I am continuing to make some changes in the project folder. I would like to request you to consider the updated folder on the below github link as submittion 
 
 SmartApply: Automated LinkedIn Messaging for Job Hunters
 
