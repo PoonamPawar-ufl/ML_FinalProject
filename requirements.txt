@@ -1,0 +1,7 @@
+altair==6.0.0
+nltk==3.9.2
+numpy==2.3.5
+pandas==2.3.3
+sentence_transformers==5.1.2
+streamlit==1.44.1
+transformers==4.57.1
