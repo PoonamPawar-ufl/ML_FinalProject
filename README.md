@@ -4,6 +4,10 @@ SmartApply: Automated LinkedIn Messaging for Job Hunters
 
 GitHub link : https://github.com/PoonamPawar-ufl/ML_Project.git
 
+Link to data file : https://uflorida-my.sharepoint.com/:f:/g/personal/p_pawar_ufl_edu/IgAWv0njen7dQYxuvHC73hycAeoESSVL8c8U0AqjFCQxA4g?e=mhC8cy
+
+Data folder is uploaded to cloud instead of git due to large file size
+
 Project Description
 
 Job hunting for data-focused roles often involves tedious manual tasks such as scanning job postings, tailoring resumes, and drafting personalized messages. SmartApply auto-
