@@ -103,18 +103,30 @@ Example Usage
 
 🔹 Upload Resume & Select Job Type
 
-![alt text](demo1.png)
+![alt text](demoStep1.png)
 
 🔹 View Top-N Matching Jobs
 
-![alt text](demo2.png)
+![alt text](demoStep2.png)
 
 🔹 Auto-Generated LinkedIn Message
 
-![alt text](image.png)
+![alt text](AutoGenerate.png)
 
 
+Performance Metrics
 
+🔹  Model Performance Metrics 
+![alt text](ModelPerformance.png)
+
+🔹 Precision / Recall / NDCG vs K
+![alt text](performanceGraph.png)
+
+🔹 Match Score Distribution (Top N)
+![alt text](TopN_MatchScore.png)
+
+🔹  Top Match Results (Table)
+![alt text](TopMatchTable.png)
 
 Author
 
