@@ -2,7 +2,7 @@
 
 SmartApply: Automated LinkedIn Messaging for Job Hunters
 
-GitHub link : https://github.com/PoonamPawar-ufl/ML_Project.git
+GitHub link : https://github.com/PoonamPawar-ufl/ML_FinalProject.git
 
 Link to data file : https://uflorida-my.sharepoint.com/:f:/g/personal/p_pawar_ufl_edu/IgAWv0njen7dQYxuvHC73hycAeoESSVL8c8U0AqjFCQxA4g?e=mhC8cy
 
@@ -65,7 +65,7 @@ Location in Repo: Place CSV file in /data/postings.csv
 
 SYSTEM ARCHITECHTURE
 
-![alt text](architecture_diagram.png)
+![alt text](screenshots/architecture_diagram.png)
 
 SmartApply uses a modular, multi-layered architecture to automate resume–job matching and generate personalized LinkedIn messages. It consists of three core layers:
 
@@ -107,30 +107,30 @@ Example Usage
 
 🔹 Upload Resume & Select Job Type
 
-![alt text](demoStep1.png)
+![alt text](screenshots/demoStep1.png)
 
 🔹 View Top-N Matching Jobs
 
-![alt text](demoStep2.png)
+![alt text](screenshots/demoStep2.png)
 
 🔹 Auto-Generated LinkedIn Message
 
-![alt text](AutoGenerate.png)
+![alt text](screenshots/AutoGenerate.png)
 
 
 Performance Metrics
 
 🔹  Model Performance Metrics 
-![alt text](ModelPerformance.png)
+![alt text](screenshots/ModelPerformance.png)
 
 🔹 Precision / Recall / NDCG vs K
-![alt text](performanceGraph.png)
+![alt text](screenshots/performanceGraph.png)
 
 🔹 Match Score Distribution (Top N)
-![alt text](TopN_MatchScore.png)
+![alt text](screenshots/TopN_MatchScore.png)
 
 🔹  Top Match Results (Table)
-![alt text](TopMatchTable.png)
+![alt text](screenshots/TopMatchTable.png)
 
 Author
 
@@ -169,10 +169,16 @@ smartApply/
 ├── UI/                            # Frontend / User Interface
 │   └── app.py                     # Streamlit or Flask UI application
 │
-├── architecture_diagram.png       # System architecture visualization
-├── AutoGenerate.png               # Auto-generation workflow diagram
-├── demo1.png                      # Sample output/demo screenshot
-├── demo2.png
+│
+├── Screenshots/                            
+│   └── architecture_diagram.png                              
+│   └── demoStep1.png                             
+│   └── demoStep2.png                              
+│   └── AutoGenerate.png                            
+│   └── ModelPerformance.png                             
+│   └── performanceGraph.png                        
+│   └── TopN_MatchScore.png                           
+│   └── TopMatchTable.png
 │
 ├── README.md                      # Main documentation file
 └── requirements.txt               # Python package dependencies
